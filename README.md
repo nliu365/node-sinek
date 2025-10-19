@@ -1,7 +1,6 @@
 # High Level Node.js Kafka Client
 
-[![Build Status](https://travis-ci.org/nodefluent/node-sinek.svg?branch=master)](https://travis-ci.org/nodefluent/node-sinek)
-[![npm version](https://badge.fury.io/js/sinek.svg)](https://badge.fury.io/js/sinek)
+> This repo has been archived, we recommend using https://github.com/platformatic/kafka
 
 The most advanced Kafka Client.
 
